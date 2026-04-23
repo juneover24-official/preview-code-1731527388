@@ -1,44 +1,8 @@
 {
   "qq_number": "1731527388",
   "group_number": "858308492",
-  "updated_at": "2026-04-22T16:19:42.431457",
+  "updated_at": "2026-04-23T15:52:38.988742",
   "skins": [
-    {
-      "name": "垂耳兔",
-      "file": "垂耳兔音效脆脆.bds",
-      "thumb": "垂耳兔音效脆脆.bds_py_26_light_thumb.png",
-      "full": "垂耳兔音效脆脆.bds_py_26_light.png"
-    },
-    {
-      "name": "小厨娘",
-      "file": "小厨娘音效2.bds",
-      "thumb": "小厨娘音效2.bds_py_26_light_thumb.png",
-      "full": "小厨娘音效2.bds_py_26_light.png"
-    },
-    {
-      "name": "小厨娘",
-      "file": "小厨娘音效1.bds",
-      "thumb": "小厨娘音效1.bds_py_26_light_thumb.png",
-      "full": "小厨娘音效1.bds_py_26_light.png"
-    },
-    {
-      "name": "憨憨熊的甜心honey",
-      "file": "甜心honey版本2.bds",
-      "thumb": "甜心honey版本2.bds_py_26_light_thumb.png",
-      "full": "甜心honey版本2.bds_py_26_light.png"
-    },
-    {
-      "name": "垂耳兔",
-      "file": "垂耳兔音效闷闷.bds",
-      "thumb": "垂耳兔音效闷闷.bds_py_26_light_thumb.png",
-      "full": "垂耳兔音效闷闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "甜心honey.bds",
-      "thumb": "甜心honey.bds_py_26_light_thumb.png",
-      "full": "甜心honey.bds_py_26_light.png"
-    },
     {
       "name": "垂耳兔",
       "file": "垂耳兔音效闷闷.bdi",
@@ -74,6 +38,42 @@
       "file": "垂耳兔音效脆脆.bdi",
       "thumb": "垂耳兔音效脆脆.bdi_py_26_light_thumb.png",
       "full": "垂耳兔音效脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "垂耳兔",
+      "file": "垂耳兔音效脆脆.bds",
+      "thumb": "垂耳兔音效脆脆.bds_py_26_light_thumb.png",
+      "full": "垂耳兔音效脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "小厨娘",
+      "file": "小厨娘音效2.bds",
+      "thumb": "小厨娘音效2.bds_py_26_light_thumb.png",
+      "full": "小厨娘音效2.bds_py_26_light.png"
+    },
+    {
+      "name": "小厨娘",
+      "file": "小厨娘音效1.bds",
+      "thumb": "小厨娘音效1.bds_py_26_light_thumb.png",
+      "full": "小厨娘音效1.bds_py_26_light.png"
+    },
+    {
+      "name": "憨憨熊的甜心honey",
+      "file": "甜心honey版本2.bds",
+      "thumb": "甜心honey版本2.bds_py_26_light_thumb.png",
+      "full": "甜心honey版本2.bds_py_26_light.png"
+    },
+    {
+      "name": "垂耳兔",
+      "file": "垂耳兔音效闷闷.bds",
+      "thumb": "垂耳兔音效闷闷.bds_py_26_light_thumb.png",
+      "full": "垂耳兔音效闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "甜心honey.bds",
+      "thumb": "甜心honey.bds_py_26_light_thumb.png",
+      "full": "甜心honey.bds_py_26_light.png"
     }
   ]
 }
