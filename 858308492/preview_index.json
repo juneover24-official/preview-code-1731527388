@@ -1,7 +1,7 @@
 {
   "qq_number": "1731527388",
   "group_number": "858308492",
-  "updated_at": "2026-07-13T14:25:36+00:00",
+  "updated_at": "2026-07-13T14:25:45+00:00",
   "skins": [
     {
       "name": "垂耳兔",
@@ -20,12 +20,6 @@
       "file": "甜心honey版本2.bds",
       "thumb": "甜心honey版本2.bds_py_26_light_thumb.png",
       "full": "甜心honey版本2.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "甜心honey.bds",
-      "thumb": "甜心honey.bds_py_26_light_thumb.png",
-      "full": "甜心honey.bds_py_26_light.png"
     }
   ]
 }
