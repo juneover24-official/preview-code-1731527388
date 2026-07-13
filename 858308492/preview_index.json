@@ -1,7 +1,7 @@
 {
   "qq_number": "1731527388",
   "group_number": "858308492",
-  "updated_at": "2026-07-13T14:24:34+00:00",
+  "updated_at": "2026-07-13T14:24:42+00:00",
   "skins": [
     {
       "name": "垂耳兔",
@@ -20,12 +20,6 @@
       "file": "小厨娘音效1.bdi",
       "thumb": "小厨娘音效1.bdi_py_26_light_thumb.png",
       "full": "小厨娘音效1.bdi_py_26_light.png"
-    },
-    {
-      "name": "憨憨熊的甜心honey",
-      "file": "甜心honey.bdi",
-      "thumb": "甜心honey.bdi_py_26_light_thumb.png",
-      "full": "甜心honey.bdi_py_26_light.png"
     },
     {
       "name": "垂耳兔",
