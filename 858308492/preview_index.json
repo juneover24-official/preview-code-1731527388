@@ -1,19 +1,13 @@
 {
   "qq_number": "1731527388",
   "group_number": "858308492",
-  "updated_at": "2026-07-13T14:25:13+00:00",
+  "updated_at": "2026-07-13T14:25:23+00:00",
   "skins": [
     {
       "name": "垂耳兔",
       "file": "垂耳兔音效闷闷.bdi",
       "thumb": "垂耳兔音效闷闷.bdi_py_26_light_thumb.png",
       "full": "垂耳兔音效闷闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "小厨娘",
-      "file": "小厨娘音效2.bdi",
-      "thumb": "小厨娘音效2.bdi_py_26_light_thumb.png",
-      "full": "小厨娘音效2.bdi_py_26_light.png"
     },
     {
       "name": "垂耳兔",
