@@ -1,7 +1,7 @@
 {
   "qq_number": "1731527388",
   "group_number": "1107123004",
-  "updated_at": "2026-09-30T14:38:57+00:00",
+  "updated_at": "2026-10-01T15:41:22+00:00",
   "skins": [
     {
       "name": "晚睡的烘焙面包",
@@ -30,6 +30,12 @@
       "thumb": "晚睡的烘焙面包闷闷音.bds_py_26_light_thumb.png",
       "full": "晚睡的烘焙面包闷闷音.bds_py_26_light_thumb.png",
       "file_id": "09c54f991cc1fe55f2faef13905ec99a"
+    },
+    {
+      "name": "晚睡的露营",
+      "file": "晚睡的露营脆脆音.bds",
+      "thumb": "晚睡的露营脆脆音.bds_py_26_light_thumb.png",
+      "full": "晚睡的露营脆脆音.bds_py_26_light_thumb.png"
     }
   ]
 }
