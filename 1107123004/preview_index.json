@@ -1,7 +1,7 @@
 {
   "qq_number": "1731527388",
   "group_number": "1107123004",
-  "updated_at": "2026-10-01T15:41:42+00:00",
+  "updated_at": "2026-10-02T01:27:46+00:00",
   "skins": [
     {
       "name": "晚睡的烘焙面包",
@@ -54,6 +54,13 @@
       "file": "晚睡的露营闷闷音-添加融合底.bdi",
       "thumb": "晚睡的露营闷闷音-添加融合底.bdi_py_26_light_thumb.png",
       "full": "晚睡的露营闷闷音-添加融合底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "晚睡的露营",
+      "file": "露营脆脆音苹果.bdi",
+      "thumb": "露营脆脆音苹果.bdi_py_26_light_thumb.png",
+      "full": "露营脆脆音苹果.bdi_py_26_light_thumb.png",
+      "file_id": "75f774ecf9e63c161d98f7deca74b404"
     }
   ]
 }
