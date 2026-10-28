@@ -1,7 +1,7 @@
 {
   "qq_number": "1731527388",
   "group_number": "1107123004",
-  "updated_at": "2026-10-28T08:11:45+00:00",
+  "updated_at": "2026-10-28T08:13:21+00:00",
   "skins": [
     {
       "name": "晚睡的烘焙面包",
@@ -139,6 +139,13 @@
       "thumb": "凛双闷音.bdi_py_26_light_thumb.png",
       "full": "凛双闷音.bdi_py_26_light_thumb.png",
       "file_id": "49899acab63bcc16260c34584879c496"
+    },
+    {
+      "name": "凛双",
+      "file": "凛双脆音.bdi",
+      "thumb": "凛双脆音.bdi_py_26_light_thumb.png",
+      "full": "凛双脆音.bdi_py_26_light_thumb.png",
+      "file_id": "72b799e05c3c1549b355e1dfbf007920"
     }
   ]
 }
