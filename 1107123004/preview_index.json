@@ -1,7 +1,7 @@
 {
   "qq_number": "1731527388",
   "group_number": "1107123004",
-  "updated_at": "2026-11-20T08:36:30+00:00",
+  "updated_at": "2026-11-20T08:38:08+00:00",
   "skins": [
     {
       "name": "晚睡的烘焙面包",
@@ -188,6 +188,13 @@
       "thumb": "圣诞迷踪版本2.bds_py_26_light_thumb.png",
       "full": "圣诞迷踪版本2.bds_py_26_light_thumb.png",
       "file_id": "7132dab4577f36ff7f9f44dc5c91c3b0"
+    },
+    {
+      "name": "晚睡的紫灯行",
+      "file": "圣诞迷踪.bds",
+      "thumb": "圣诞迷踪.bds_py_26_light_thumb.png",
+      "full": "圣诞迷踪.bds_py_26_light_thumb.png",
+      "file_id": "694649a0539087d83604412b48e62c1c"
     }
   ]
 }
